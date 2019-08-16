@@ -1,0 +1,22 @@
+/* odd acf repeater fields */
+.acf-repeater .acf-row:nth-child(odd) .acf-row-handle, .acf-repeater .acf-row:nth-child(odd) .acf-row-handle{
+    background:#66a4c1;
+}
+.acf-repeater .acf-row:nth-child(odd) .-left > .acf-field:before{
+    background:#c5dde8;
+}
+.acf-repeater .acf-row:nth-child(odd) .acf-field, .acf-repeater .acf-row:nth-child(odd) .acf-input{
+    background:#d4e3ea;
+}
+/* even acf repeater fields */
+/*
+.acf-repeater .acf-row:nth-child(even) .acf-row-handle, .acf-repeater .acf-row:nth-child(even) .acf-row-handle{
+    background:#9c9c90;
+}
+.acf-repeater .acf-row:nth-child(even) .-left > .acf-field:before{
+    background:#cacac0;
+}
+.acf-repeater .acf-row:nth-child(even) .acf-field, .acf-repeater .acf-row:nth-child(even) .acf-input{
+    background:#e4e4d1;
+}
+*/
